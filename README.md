@@ -10,7 +10,7 @@ Website based on Neovenchy's website template .
 ## Authors
 
 
-*https://github.com/DopaCheat
+* https://github.com/DopaCheat
 
 
 
